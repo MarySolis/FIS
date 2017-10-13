@@ -1,2 +1,2 @@
 # FIS
-Container for Fis' brainstorming 
+Container for FIS' brainstorming 
